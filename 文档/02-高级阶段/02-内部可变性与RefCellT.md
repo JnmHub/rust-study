@@ -542,4 +542,4 @@ Rust 默认不会这么宽松。
 
 下一篇最自然的内容是：
 
-- trait object 与动态分发
+- [trait object 与动态分发](./03-trait-object与动态分发.md)
